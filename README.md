@@ -13,8 +13,4 @@ Important to know:
 * Already includes a copy of ffmpeg.exe
 * Only works on Windows (I assume Linux users don't need GUIs, _however_ it appears Mono runs it almost perfectly)
 
-Screenshot:
-
-![Screenshot](http://a.pomf.se/jgooon.PNG)
-
 This software is released under the MIT license. See [LICENSE.md] (https://github.com/WebMBro/WebMConverter/blob/master/LICENSE.md).
