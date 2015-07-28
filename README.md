@@ -4,7 +4,7 @@ WebM made simple. Basically, a wrapper around ffmpeg made for converting videos 
 
 Download it [here](https://github.com/WebMBro/WebMConverter/releases).
 Download the latest Converter.zip.
-Don't run ffmpeg.exe you retard, run WebMConverter.exe.
+Don't run ffmpeg.exe you silly goose, run WebMConverter.exe.
 And I shouldn't have to tell you to extract the zip file first.
 Also, don't click "Download ZIP" on the right side of the page, that'll only download the source. (unless you want to compile it yourself, obviously)
 
